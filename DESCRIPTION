@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Alexander", "Russell", , "a.russell@example.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Prints a thing out in the shape of a whale.
+Description: Prints out a thing out in the shape of a whale.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
